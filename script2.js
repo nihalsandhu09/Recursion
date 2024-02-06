@@ -10,6 +10,8 @@ function fibonacci(n) {
     }
   }
   
+
+  
   // Example usage:
   const fibResult = fibonacci(6);
   console.log(`Fibonacci of 6 is: ${fibResult}`);
